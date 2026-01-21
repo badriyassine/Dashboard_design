@@ -24,7 +24,7 @@ This project focuses purely on front-end design without any dynamic or JavaScrip
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BD-YASSINE/Dashboard-design.git
+git clone https://github.com/BD-YASSINE/Dashboard_design.git
 ```
 
 2. Open the folder:
