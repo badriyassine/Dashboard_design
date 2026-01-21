@@ -30,7 +30,7 @@ git clone https://github.com/BD-YASSINE/Dashboard_design.git
 2. Open the folder:
 
 ```bash
-cd Dashboard-design
+cd Dashboard_design
 ```
 
 3. Open `index.html` in your browser.
