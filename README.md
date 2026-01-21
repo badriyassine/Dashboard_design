@@ -7,7 +7,7 @@ This project focuses purely on front-end design without any dynamic or JavaScrip
 
 ## 📷 Screenshot
 
-![Dashboard Screenshot](/images/screenshots/Capture%20d’écran%202025-07-13%20033503.png)
+![Dashboard Screenshot](/images/screenshots/screen.png)
 
 ---
 
