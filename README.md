@@ -1,13 +1,18 @@
 # Responsive Dashboard Design
 
-A **responsive**, **modern**, and **simple dashboard UI** built using only **HTML** and **CSS**.  
+A  **modern**, and **simple dashboard UI** built using only **HTML** and **CSS**.  
 This project focuses purely on front-end design without any dynamic or JavaScript logic. Ideal for practicing layout, responsive grids, and modern UI elements.
+
+---
+
+## 📷 Screenshot
+
+![Dashboard Screenshot](/images/screenshots/Capture%20d’écran%202025-07-13%20033503.png)
 
 ---
 
 ## 🌟 Features
 
-- Responsive layout for desktop, tablet, and mobile
 - Clean and modern UI design
 - Uses only semantic HTML5 and modern CSS
 - Fully static (no JS or frameworks)
@@ -19,19 +24,14 @@ This project focuses purely on front-end design without any dynamic or JavaScrip
 ```
 Dashboard-design/
 │
-├── index.html             # Main HTML file
-├── styles.css             # Main CSS stylesheet
+├── index.html             
+├── styles.css             
 └── images/
+    └── logo.jpg
+    └── icon.jpg
     └── screenshots/
-        └── dashboard.png  # Screenshot of the dashboard
+        └── dashboard.png 
 ```
----
-
-## 📷 Screenshot
-
-![Dashboard Screenshot](/images/screenshots/Capture%20d’écran%202025-07-13%20033503.png)
-
----
 
 ## 💻 How to View
 
@@ -58,10 +58,6 @@ cd Dashboard-design
 
 ---
 
-## 📌 Notes
-
-This is a design-only project. There's **no interactivity or backend** — it's meant to serve as a UI layout example or for learning purposes.
-
 ---
 
 ## 👤 Author
@@ -69,7 +65,3 @@ This is a design-only project. There's **no interactivity or backend** — it's 
 Made by [**ERROR**](https://github.com/BD-YASSINE)
 
 ---
-
-## 📃 License
-
-This project is open-source and free to use for educational or personal purposes.
