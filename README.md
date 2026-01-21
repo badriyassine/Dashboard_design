@@ -46,6 +46,6 @@ cd Dashboard_design
 
 ## 👤 Author
 
-Made by [**ERROR**](https://github.com/badriyassine)
+Made by [**BADRI YASSINE**](https://github.com/badriyassine)
 
 ---
