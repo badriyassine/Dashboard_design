@@ -1,6 +1,6 @@
-# Responsive Dashboard Design
+# Dashboard Design
 
-A  **modern**, and **simple dashboard UI** built using only **HTML** and **CSS**.  
+A **modern**, and **simple dashboard UI** built using only **HTML** and **CSS**.  
 This project focuses purely on front-end design without any dynamic or JavaScript logic. Ideal for practicing layout, responsive grids, and modern UI elements.
 
 ---
@@ -15,23 +15,9 @@ This project focuses purely on front-end design without any dynamic or JavaScrip
 
 - Clean and modern UI design
 - Uses only semantic HTML5 and modern CSS
-- Fully static (no JS or frameworks)
+- Fully static 
 
 ---
-
-## 📁 Project Structure
-
-```
-Dashboard-design/
-│
-├── index.html             
-├── styles.css             
-└── images/
-    └── logo.jpg
-    └── icon.jpg
-    └── screenshots/
-        └── dashboard.png 
-```
 
 ## 💻 How to View
 
@@ -60,6 +46,6 @@ cd Dashboard-design
 
 ## 👤 Author
 
-Made by [**ERROR**](https://github.com/BD-YASSINE)
+Made by [**ERROR**](https://github.com/badriyassine)
 
 ---
