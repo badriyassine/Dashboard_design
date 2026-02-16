@@ -18,7 +18,7 @@ This project focuses purely on front-end design without any dynamic or JavaScrip
 
 ## Live Demo
 
-👉 [See the website live](https://badriyassine.github.io/Dashboard_design/)
+[See the website live](https://badriyassine.github.io/Dashboard_design/)
 
 ---
 
